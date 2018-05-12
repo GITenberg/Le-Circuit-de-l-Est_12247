@@ -1,11 +1,16 @@
 _repo: Le-Circuit-de-l-Est_12247
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Commune de Amiens/Nancy
     gutenberg_agent_id: '4275'
     url: http://www.gutenberg.org/2009/agents/4275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12247#Le-Circuit-de-l-Est
 gutenberg_bookshelf: FR Sports et loisirs
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
